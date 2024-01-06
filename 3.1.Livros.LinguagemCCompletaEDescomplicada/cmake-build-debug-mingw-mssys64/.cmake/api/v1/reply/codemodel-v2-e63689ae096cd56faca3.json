@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3_1_Livros_Linguagem_C_Completa_E_Descomplicada",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3_1_Livros_Linguagem_C_Completa_E_Descomplicada::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_1_Livros_Linguagem_C_Completa_E_Descomplicada-Debug-07ca1446f87499889ccf.json",
+					"name" : "3_1_Livros_Linguagem_C_Completa_E_Descomplicada",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Repos/Estudos/C-Estudos/3.1.Livros.LinguagemCCompletaEDescomplicada/cmake-build-debug-mingw-mssys64",
+		"source" : "C:/Repos/Estudos/C-Estudos/3.1.Livros.LinguagemCCompletaEDescomplicada"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
