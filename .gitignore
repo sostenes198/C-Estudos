@@ -1,55 +1,28 @@
-# Jetbrains
-.idea
+# Diretórios e arquivos criados pelo CLion
+.idea/
+*.iml
+cmake-build-debug
+cmake-build-release
 
-# Prerequisites
-*.d
-
-# Object files
+# Arquivos de compilação
 *.o
-*.ko
-*.obj
-*.elf
-
-# Linker output
-*.ilk
-*.map
-*.exp
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
 *.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
 *.so
-*.so.*
-*.dylib
-
-# Executables
+*.dll
 *.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+# Arquivos temporários do sistema operacional
+*.swp
+*.swo
+*.bak
+*.tmp
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Arquivos de configuração do CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CMakeScripts/
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db

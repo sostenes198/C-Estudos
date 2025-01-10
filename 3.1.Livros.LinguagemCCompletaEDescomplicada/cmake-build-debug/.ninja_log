@@ -1,8 +1,0 @@
-# ninja log v5
-0	87	7161892184655400	build.ninja	3fd08d6668fdce2c
-2	283	7161860717801053	CMakeFiles/3_1_Livros_Linguagem_C_Completa_E_Descomplicada.dir/main.c.obj	7a8ae0d0405cf37b
-286	513	7161860720083998	3_1_Livros_Linguagem_C_Completa_E_Descomplicada.exe	a7b2ce119ca1102d
-11	285	7161860717826962	CMakeFiles/3_1_Livros_Linguagem_C_Completa_E_Descomplicada.dir/src/aritmetica/funcoes.c.obj	92eedc7230512de
-2	139	7161892707886070	CMakeFiles/3_1_Livros_Linguagem_C_Completa_E_Descomplicada.dir/main.c.obj	b5a91b5ca7882d81
-9	163	7161892708207475	CMakeFiles/3_1_Livros_Linguagem_C_Completa_E_Descomplicada.dir/src/aritmetica/funcoes.c.obj	1d069bf8a8e88ed3
-163	275	7161892709305402	3_1_Livros_Linguagem_C_Completa_E_Descomplicada.exe	35fabe42dae5bade

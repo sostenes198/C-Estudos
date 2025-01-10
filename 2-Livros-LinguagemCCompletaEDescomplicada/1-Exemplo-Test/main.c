@@ -4,4 +4,3 @@ int main() {
     funcoesAritmeticas();
     return 0;
 }
-

@@ -1,3 +1,0 @@
-C:/Repos/Estudos/C-Estudos/3.1.Livros.LinguagemCCompletaEDescomplicada/cmake-build-release-mingw-mssys64/CMakeFiles/3_1_Livros_Linguagem_C_Completa_E_Descomplicada.dir
-C:/Repos/Estudos/C-Estudos/3.1.Livros.LinguagemCCompletaEDescomplicada/cmake-build-release-mingw-mssys64/CMakeFiles/edit_cache.dir
-C:/Repos/Estudos/C-Estudos/3.1.Livros.LinguagemCCompletaEDescomplicada/cmake-build-release-mingw-mssys64/CMakeFiles/rebuild_cache.dir
